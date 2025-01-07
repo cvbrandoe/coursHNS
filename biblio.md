@@ -8,4 +8,6 @@
 
 * Revue Humanités numériques, numéro Humanités numériques spatialisées, 3 | 2021, https://doi.org/10.4000/revuehn.689, https://journals.openedition.org/revuehn/689.
 
+* Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams, Iosifescu Enescu, Cristina M., PhD Thesis, 2019
+
 (et plus !)
