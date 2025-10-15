@@ -1,25 +1,25 @@
 # coursHNS
-Cours humanités numériques spatialisées - ùaster humanités numériques computationnelles - PSL
+Cours Humanités numériques spatialisées (HNS) - Master PSL en humanités numériques computationnelles
 
 ## Année 2025 - 2026
 
-### Contenu des séances
+### Contenu indicatif des séances
 
-8 octobre 2025 :
+8 octobre 2025 : organisation du cours, bref historique du tournant spatial en SHS aux HNS, panorama des projets de recherche en HNS, TP prise en main de QGIS
 
-22 octobre 2025 :
+22 octobre 2025 : Le SIG pour la spatialisation des données en SHS, géoréférencement de plans anciens et vectorisation des données anciennes, les référentiels de données géographiques et géohistoriques, TP QGIS
 
-5 novembre 2025 : 
+5 novembre 2025 :  Principes de la cartographie des données thématiques et critique des cartes (statiques et dynamiques), point rendu (recherche des données)
 
-19 novembre 2025 : discussion collective du papier 
+19 novembre 2025 : discussion collective du papier, introduction à l'analyse spatiale, TP QGIS
 
-10 décembre 2025 : point rendu (recherche des données)
+10 décembre 2025 : géo-traitements en python, geocodage, spatialisation de textes
 
-17 décembre 2025 : point rendu (analyses envisagées)
+17 décembre 2025 : analyse spatiale, point rendu (analyses envisagées), 
 
-14 Janvier 2026 : 
+14 Janvier 2026 : analyse spatiale
 
-21 Janvier 2026 : brèves présentations du rendu et discussions
+21 Janvier 2026 : analyse spatiale, brèves présentations du rendu et discussions
 
 ### Logiciels à utiliser
 
