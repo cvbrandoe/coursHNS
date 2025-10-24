@@ -12,6 +12,8 @@
 
 * Revue Humanités numériques, numéro Humanités numériques spatialisées, 3 | 2021, https://doi.org/10.4000/revuehn.689, https://journals.openedition.org/revuehn/689.
 
+* Purves RS, Winter S, Kuhn W. Places in Information Science. J Assoc Inf Sci Technol. 2019 Nov, 70(11):1173-1182. doi: 10.1002/asi.24194. Epub 2019 Mar 12. PMID: 31737747; PMCID: PMC6850117.
+
 * Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams, Iosifescu Enescu, Cristina M., PhD Thesis, 2019
 
 (et plus !)
