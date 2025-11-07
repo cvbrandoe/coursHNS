@@ -9,9 +9,9 @@ Cours Humanités numériques spatialisées (HNS) - Master PSL en humanités num�
 
 22 octobre 2025 : Le SIG pour la spatialisation des données en SHS, géoréférencement de plans anciens et vectorisation des données anciennes, les référentiels de données géographiques et géohistoriques, TP QGIS
 
-5 novembre 2025 :  Principes de la cartographie des données thématiques et critique des cartes (statiques et dynamiques), point rendu (recherche des données)
+5 novembre 2025 :  Fin TP QGIS, discussion sur la création des cartes et critiques, recherche des données spatiales ou spatialisées en ligne
 
-19 novembre 2025 : discussion collective du papier, introduction à l'analyse spatiale, TP QGIS
+19 novembre 2025 : Principes de la cartographie des données thématiques, discussion collective du papier, 1e point discussion rendu (données), introduction Geopandas
 
 10 décembre 2025 : géo-traitements en python, geocodage, spatialisation de textes
 
