@@ -11,15 +11,15 @@ Cours Humanités numériques spatialisées (HNS) - Master PSL en humanités num�
 
 5 novembre 2025 :  Fin TP QGIS, discussion sur la création des cartes et critiques, recherche des données spatiales ou spatialisées en ligne
 
-19 novembre 2025 : Principes de la cartographie des données thématiques, discussion collective du papier, 1e point discussion rendu (données), introduction Geopandas
+19 novembre 2025 : discussion collective du papier, 1e point discussion rendu (données), Géo-traitements et cartographie en python avec Geopandas
 
-10 décembre 2025 : géo-traitements en python, geocodage, spatialisation de textes
+10 décembre 2025 : principes de la cartographie thématique, suite Géo-traitements et cartographie en python avec Geopandas,
 
-17 décembre 2025 : analyse spatiale, point rendu (analyses envisagées), 
+17 décembre 2025 : geocodage, spatialisation de textes, analyse spatiale, point rendu (analyses envisagées), 
 
 14 Janvier 2026 : analyse spatiale
 
-21 Janvier 2026 : analyse spatiale, brèves présentations du rendu et discussions
+21 Janvier 2026 : brèves présentations du rendu et discussions, l'IA au service de la cartographie historique, 
 
 ### Logiciels à utiliser
 
