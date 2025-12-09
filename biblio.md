@@ -19,3 +19,9 @@
 * Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams, Iosifescu Enescu, Cristina M., PhD Thesis, 2019
 
 (et plus !)
+
+# Liens utiles 
+
+* https://hypergeo.eu/
+
+* https://psigehess.hypotheses.org/9
