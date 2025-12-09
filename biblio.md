@@ -5,6 +5,8 @@
 * Jacques Bertin (1973), Sémiologie graphique. Les diagrammes, les réseaux, les cartes, Paris/La Haye, Mouton ; Paris, Gauthier-Villars.
 
 * Pumain Denise, Saint-Julien Th., 2010, Analyse spatiale - Localisations. Paris, Colin, Cursus, 162p
+  
+* Béguin, M. et Pumain, D. (2023). Chapitre 5. Découper en classes les séries quantitatives. La représentation des données géographiques : Statistique et cartographie (p. 117-148). Armand Colin.
 
 * Lambert Nicolas, Zanin Christine, (2016) : « Manuel de cartographie. Principes, méthodes, applications », cursus, Armand Colin (18 mai 2016), 224p.
 
