@@ -15,11 +15,11 @@ Cours Humanités numériques spatialisées (HNS) - Master PSL en humanités num�
 
 10 décembre 2025 : principes de la cartographie thématique, suite Géo-traitements et cartographie en python avec Geopandas,
 
-17 décembre 2025 : geocodage, spatialisation de textes, analyse spatiale, point rendu (analyses envisagées), 
+17 décembre 2025 : suite géo-traitements et analyse spatiale, spatialisation de textes (Geo Ner), travail sur le rendu (analyses envisagées), 
 
-14 Janvier 2026 : analyse spatiale
+14 Janvier 2026 : suite analyse spatiale
 
-21 Janvier 2026 : brèves présentations du rendu et discussions, l'IA au service de la cartographie historique, 
+21 Janvier 2026 : brèves présentations du rendu et discussions, l'IA au service de la cartographie historique.
 
 ### Logiciels à utiliser
 
