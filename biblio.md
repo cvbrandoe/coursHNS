@@ -18,6 +18,12 @@
 
 * Dream Cartography. Mapping Dream Space and Content for an Exploratory Analysis of Dreams, Iosifescu Enescu, Cristina M., PhD Thesis, 2019
 
+* Ludovic Moncla, Mauro Gaio. Perdido : librairie Python pour le geoparsing et le geocoding de textes en français. Extraction et Gestion des Connaissances (EGC'2023), Jan 2023, Lyon, France. ⟨hal-03928358⟩
+
+* Werner Stangl, Carmen Brando. TopUrbi and Alcedo's Dictionary: what methods and impasses in the textual and cartographic work of interpreting a historical source?. Colloque Représentations et réalités de l’Amérique après 300 ans de colonisation : le dictionnaire des Indes d’Alcedo, Framespa (UMR 5136); EHESS-CNRS CRH (UMR 8558), Nov 2025, Toulouse, France. ⟨hal-05367622⟩
+
+* Laurence Jolivet, Carmen Brando, Catherine Dominguès. Place names in Spanish Republican Life Stories: spatial patterns in locations and perceptions. Proceedings of the ICA, 2021, 4, pp.1-9. ⟨10.5194/ica-proc-4-49-2021⟩. ⟨hal-03485595⟩
+  
 (et plus !)
 
 # Liens utiles 
