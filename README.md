@@ -15,13 +15,25 @@ Cours Humanités numériques spatialisées (HNS) - Master PSL en humanités num�
 
 10 décembre 2025 : principes de la cartographie thématique, suite Géo-traitements et cartographie en python avec Geopandas,
 
-17 décembre 2025 : suite géo-traitements et analyse spatiale, spatialisation de textes (Geo Ner), travail sur le rendu (analyses envisagées), 
+17 décembre 2025 : suite géo-traitements et analyse spatiale, spatialisation de textes (Geo Ner), definition des analyses envisagées pour le rendu, 
 
-14 Janvier 2026 : suite analyse spatiale
+14 Janvier 2026 : travail pratique sur le rendu, notebooks divers (suite GeoNer, analyse spatiale)
 
 21 Janvier 2026 : brèves présentations du rendu et discussions, l'IA au service de la cartographie historique.
 
-### Logiciels à utiliser
+### Composition du rendu final
+
+**Présentation orale – mercredi 21 janvier**
+
+Présentation brève de votre sujet incluant la démarche méthodologique (données, méthodes, hypothèses).
+Quelques cartes illustrant vos résultats.
+N'hésitez pas à montrer vos essais, même avec des résultats mitigés, et à les discuter de manière critique.
+
+**Mini-mémoire écrit – date limite : 15 février**
+
+Maximum 10 pages développant le même sujet (y compris des brèves introduction, conclusion et bibliographie), à envoyer par mail en format PDF, accompagné des données/codes/projet QGIS produits (dépôt GitHub ou fichier ZIP).
+
+### Logiciels à utiliser pendant le cours
 
 - QGIS (bureautique, à installer) https://www.qgis.org/en/site/forusers/download.html
 
