@@ -24,6 +24,10 @@
 
 * Laurence Jolivet, Carmen Brando, Catherine Dominguès. Place names in Spanish Republican Life Stories: spatial patterns in locations and perceptions. Proceedings of the ICA, 2021, 4, pp.1-9. ⟨10.5194/ica-proc-4-49-2021⟩. ⟨hal-03485595⟩
   
+* Galiana, Lino. 2025. Python pour la data science. https://doi.org/10.5281/zenodo.8229676.
+
+* Lambert, Nicolas, Les projections cartographiques, 2024, https://observablehq.com/@cartographie/les-projections-cartographiques
+  
 (et plus !)
 
 # Liens utiles 
