@@ -32,6 +32,16 @@
   
 (et plus !)
 
+# Outils 
+
+* https://www.qgis.org/
+
+* https://magrit.cnrs.fr/
+
+* https://www.sciencespo.fr/cartographie/fr/outils/khartis
+
+* https://arabesque.univ-eiffel.fr/
+
 # Liens utiles 
 
 * https://hypergeo.eu/
